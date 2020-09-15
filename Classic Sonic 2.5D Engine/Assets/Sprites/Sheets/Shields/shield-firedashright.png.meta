@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 3da9dbb848c9d8847828739b4dd7ac40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4395910783955997926
+    second: shield-firedashright_0
+  - first:
+      213: -4455423685064834248
+    second: shield-firedashright_1
+  - first:
+      213: -2792236981395824425
+    second: shield-firedashright_2
+  - first:
+      213: 3921687309505654440
+    second: shield-firedashright_3
+  - first:
+      213: 8937320798718248468
+    second: shield-firedashright_4
+  - first:
+      213: -9079116594765888842
+    second: shield-firedashright_5
+  - first:
+      213: -622843034081694890
+    second: shield-firedashright_6
+  - first:
+      213: -9160200196376790067
+    second: shield-firedashright_7
+  - first:
+      213: -3161989900775959364
+    second: shield-firedashright_8
+  - first:
+      213: -5662175852780575037
+    second: shield-firedashright_9
+  - first:
+      213: 6818106583050531783
+    second: shield-firedashright_10
+  - first:
+      213: -8711307849847029720
+    second: shield-firedashright_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shield-firedashright_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 85
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7294118, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e491064199610d30800000000000000
+      internalID: 4395910783955997926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-firedashright_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 85
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7294118, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83349d7a3c72b22c0800000000000000
+      internalID: -4455423685064834248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-firedashright_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 85
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7294118, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d06133624bff39d0800000000000000
+      internalID: -2792236981395824425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-firedashright_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 85
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7294118, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeed3b74d1ac6630800000000000000
+      internalID: 3921687309505654440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-firedashright_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 85
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7294118, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416cf4b1aedb70c70800000000000000
+      internalID: 8937320798718248468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-firedashright_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 85
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7294118, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b200ae6f8f700280800000000000000
+      internalID: -9079116594765888842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-firedashright_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 85
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7294118, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bebba7f873b57f0800000000000000
+      internalID: -622843034081694890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-firedashright_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 85
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7294118, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb7f77447e60e080800000000000000
+      internalID: -9160200196376790067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-firedashright_8
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 85
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7294118, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb450ec20fa5e14d0800000000000000
+      internalID: -3161989900775959364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-firedashright_9
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 85
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7294118, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c62837bf09eb61b0800000000000000
+      internalID: -5662175852780575037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-firedashright_10
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 85
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7294118, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3ba7b30d7ce9e50800000000000000
+      internalID: 6818106583050531783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-firedashright_11
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 0
+        width: 85
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7294118, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820cbc04aa73b1780800000000000000
+      internalID: -8711307849847029720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 826ff8fcbea06a74c9b1d74bab2bb118
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

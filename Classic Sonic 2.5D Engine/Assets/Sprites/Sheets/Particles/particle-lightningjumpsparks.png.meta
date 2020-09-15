@@ -1,0 +1,698 @@
+fileFormatVersion: 2
+guid: 24615183bc1c507458c7687591800af3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2332052406546215948
+    second: particle-lightningjumpsparks_0
+  - first:
+      213: 4709870371023250925
+    second: particle-lightningjumpsparks_1
+  - first:
+      213: 1350154986298759502
+    second: particle-lightningjumpsparks_2
+  - first:
+      213: 2548747457688607278
+    second: particle-lightningjumpsparks_3
+  - first:
+      213: -7710732722028022394
+    second: particle-lightningjumpsparks_4
+  - first:
+      213: 6990126012975337658
+    second: particle-lightningjumpsparks_5
+  - first:
+      213: 3954082952005681308
+    second: particle-lightningjumpsparks_6
+  - first:
+      213: 325469820638544827
+    second: particle-lightningjumpsparks_7
+  - first:
+      213: 683833630853122378
+    second: particle-lightningjumpsparks_8
+  - first:
+      213: 5326089430473521667
+    second: particle-lightningjumpsparks_9
+  - first:
+      213: 2576484727340020625
+    second: particle-lightningjumpsparks_10
+  - first:
+      213: -8150939765371296268
+    second: particle-lightningjumpsparks_11
+  - first:
+      213: -3137291916634259128
+    second: particle-lightningjumpsparks_12
+  - first:
+      213: 766832495933599421
+    second: particle-lightningjumpsparks_13
+  - first:
+      213: -8607931997303083403
+    second: particle-lightningjumpsparks_0
+  - first:
+      213: -8760960000620046346
+    second: particle-lightningjumpsparks_1
+  - first:
+      213: 8507742025005290942
+    second: particle-lightningjumpsparks_2
+  - first:
+      213: -2974263839448585347
+    second: particle-lightningjumpsparks_3
+  - first:
+      213: -2745906910718027081
+    second: particle-lightningjumpsparks_4
+  - first:
+      213: 6584662336516195324
+    second: particle-lightningjumpsparks_5
+  - first:
+      213: -4754235753195870855
+    second: particle-lightningjumpsparks_6
+  - first:
+      213: -879146754105113714
+    second: particle-lightningjumpsparks_7
+  - first:
+      213: 7857609455758028729
+    second: particle-lightningjumpsparks_8
+  - first:
+      213: 1272539869111315650
+    second: particle-lightningjumpsparks_9
+  - first:
+      213: -6208907867998314798
+    second: particle-lightningjumpsparks_10
+  - first:
+      213: 8741681021918352172
+    second: particle-lightningjumpsparks_11
+  - first:
+      213: -4363150979294063950
+    second: particle-lightningjumpsparks_12
+  - first:
+      213: 1326197857295921873
+    second: particle-lightningjumpsparks_13
+  - first:
+      213: 8308383838668205736
+    second: particle-lightningjumpsparks_14
+  - first:
+      213: 1585047113488145494
+    second: particle-lightningjumpsparks_15
+  - first:
+      213: -8671808209673570165
+    second: particle-lightningjumpsparks_16
+  - first:
+      213: 2022628373497321614
+    second: particle-lightningjumpsparks_17
+  - first:
+      213: 5336365572263853073
+    second: particle-lightningjumpsparks_18
+  - first:
+      213: -5704478251999569103
+    second: particle-lightningjumpsparks_19
+  - first:
+      213: -8690209864361376669
+    second: particle-lightningjumpsparks_20
+  - first:
+      213: -3202826843036547185
+    second: particle-lightningjumpsparks_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ee70a847b7a8880800000000000000
+      internalID: -8607931997303083403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d2a70c41da6680800000000000000
+      internalID: -8760960000620046346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb55a19bb42911670800000000000000
+      internalID: 8507742025005290942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ba06ddbca49b6d0800000000000000
+      internalID: -2974263839448585347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba9c50963494e9d0800000000000000
+      internalID: -2745906910718027081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf301fd028b616b50800000000000000
+      internalID: 6584662336516195324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_6
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9756c4085cf850eb0800000000000000
+      internalID: -4754235753195870855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_7
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8380206fa4acc3f0800000000000000
+      internalID: -879146754105113714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf253a2b26db0d60800000000000000
+      internalID: 7857609455758028729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_9
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cce6ecc448f8a110800000000000000
+      internalID: 1272539869111315650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_10
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de15d4b03785d9a0800000000000000
+      internalID: -6208907867998314798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_11
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c239733f290b05970800000000000000
+      internalID: 8741681021918352172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_12
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b297c12d49f273c0800000000000000
+      internalID: -4363150979294063950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_13
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2f10abce9976210800000000000000
+      internalID: 1326197857295921873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_14
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae2a61e41f4d4370800000000000000
+      internalID: 8308383838668205736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_15
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c18b7a3f73ff510800000000000000
+      internalID: 1585047113488145494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_16
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b883716e06c87a780800000000000000
+      internalID: -8671808209673570165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_17
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e881fe21ac1d11c10800000000000000
+      internalID: 2022628373497321614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_18
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c3966f6349e0a40800000000000000
+      internalID: 5336365572263853073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_19
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bdf90e04f95d0b0800000000000000
+      internalID: -5704478251999569103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_20
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364052bcb2c266780800000000000000
+      internalID: -8690209864361376669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle-lightningjumpsparks_21
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8788bf94f54d83d0800000000000000
+      internalID: -3202826843036547185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dfc025a9599fc61419abe4bb093132be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

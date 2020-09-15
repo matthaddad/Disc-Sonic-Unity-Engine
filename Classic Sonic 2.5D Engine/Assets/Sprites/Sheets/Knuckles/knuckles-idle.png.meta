@@ -1,0 +1,4442 @@
+fileFormatVersion: 2
+guid: 3c945ec39085bef47a04defa52848691
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6651917313078380405
+    second: knuckles-idle_0
+  - first:
+      213: 7054529260021048258
+    second: knuckles-idle_1
+  - first:
+      213: -6309823110880192873
+    second: knuckles-idle_2
+  - first:
+      213: 8020785294750342301
+    second: knuckles-idle_3
+  - first:
+      213: -6712498914263409025
+    second: knuckles-idle_4
+  - first:
+      213: -4680175415832340529
+    second: knuckles-idle_5
+  - first:
+      213: 4312337228328614040
+    second: knuckles-idle_6
+  - first:
+      213: 4789435981042758669
+    second: knuckles-idle_7
+  - first:
+      213: 8178356491512239295
+    second: knuckles-idle_8
+  - first:
+      213: -6386050160539994709
+    second: knuckles-idle_9
+  - first:
+      213: 8198386227510955718
+    second: knuckles-idle_10
+  - first:
+      213: 1612159682509943571
+    second: knuckles-idle_11
+  - first:
+      213: -2172989776502619086
+    second: knuckles-idle_12
+  - first:
+      213: 5471830245587768061
+    second: knuckles-idle_13
+  - first:
+      213: 1841943974837041954
+    second: knuckles-idle_14
+  - first:
+      213: 8660757534248167491
+    second: knuckles-idle_15
+  - first:
+      213: -4169374540868433073
+    second: knuckles-idle_16
+  - first:
+      213: 7797694147284738445
+    second: knuckles-idle_17
+  - first:
+      213: 7489228177842983035
+    second: knuckles-idle_18
+  - first:
+      213: -5187675425041493748
+    second: knuckles-idle_19
+  - first:
+      213: -3278374953271135692
+    second: knuckles-idle_20
+  - first:
+      213: 5526720826800030666
+    second: knuckles-idle_21
+  - first:
+      213: 5138945105819841983
+    second: knuckles-idle_22
+  - first:
+      213: -3119308446583798699
+    second: knuckles-idle_23
+  - first:
+      213: -2313623108374117758
+    second: knuckles-idle_24
+  - first:
+      213: 4495412275873543737
+    second: knuckles-idle_25
+  - first:
+      213: 3540026098898216343
+    second: knuckles-idle_26
+  - first:
+      213: 109105014454100893
+    second: knuckles-idle_27
+  - first:
+      213: 1966496406412132352
+    second: knuckles-idle_28
+  - first:
+      213: -8119277426950936738
+    second: knuckles-idle_29
+  - first:
+      213: -1310773744367755028
+    second: knuckles-idle_30
+  - first:
+      213: 6095803901179766174
+    second: knuckles-idle_31
+  - first:
+      213: -2421793561566176346
+    second: knuckles-idle_32
+  - first:
+      213: -3656771010702561253
+    second: knuckles-idle_33
+  - first:
+      213: -5195739835209563750
+    second: knuckles-idle_34
+  - first:
+      213: -1832493101828463116
+    second: knuckles-idle_35
+  - first:
+      213: -3843667380792262074
+    second: knuckles-idle_36
+  - first:
+      213: 6142827816916524900
+    second: knuckles-idle_37
+  - first:
+      213: 8841998711214506724
+    second: knuckles-idle_38
+  - first:
+      213: 6083131488666609129
+    second: knuckles-idle_39
+  - first:
+      213: -2552039342046741841
+    second: knuckles-idle_40
+  - first:
+      213: -5581824928414134578
+    second: knuckles-idle_41
+  - first:
+      213: 1417150270882092529
+    second: knuckles-idle_42
+  - first:
+      213: -6882560147617021124
+    second: knuckles-idle_43
+  - first:
+      213: -3520954989027853836
+    second: knuckles-idle_44
+  - first:
+      213: -9146470058865840690
+    second: knuckles-idle_45
+  - first:
+      213: 6787583529996364093
+    second: knuckles-idle_46
+  - first:
+      213: -7907549058167256473
+    second: knuckles-idle_47
+  - first:
+      213: -7801522379891732635
+    second: knuckles-idle_48
+  - first:
+      213: -1627056405655180510
+    second: knuckles-idle_49
+  - first:
+      213: -7993105284149132346
+    second: knuckles-idle_50
+  - first:
+      213: 355470416031791894
+    second: knuckles-idle_51
+  - first:
+      213: 5567437307266138496
+    second: knuckles-idle_52
+  - first:
+      213: 3853124259874622670
+    second: knuckles-idle_53
+  - first:
+      213: 5826225285517983898
+    second: knuckles-idle_54
+  - first:
+      213: 8837389894246347214
+    second: knuckles-idle_55
+  - first:
+      213: -6436252551455919462
+    second: knuckles-idle_56
+  - first:
+      213: 4526274844450467955
+    second: knuckles-idle_57
+  - first:
+      213: 446811639600368071
+    second: knuckles-idle_58
+  - first:
+      213: 6276147469698264124
+    second: knuckles-idle_59
+  - first:
+      213: -2648878172634665667
+    second: knuckles-idle_60
+  - first:
+      213: 5593952106027281582
+    second: knuckles-idle_61
+  - first:
+      213: 9015694982063532241
+    second: knuckles-idle_62
+  - first:
+      213: 4076914858408638155
+    second: knuckles-idle_63
+  - first:
+      213: -2976556566312346953
+    second: knuckles-idle_64
+  - first:
+      213: 1059456540561611819
+    second: knuckles-idle_65
+  - first:
+      213: -204008796899873688
+    second: knuckles-idle_66
+  - first:
+      213: -8207959886622129154
+    second: knuckles-idle_67
+  - first:
+      213: 3757666990573316092
+    second: knuckles-idle_68
+  - first:
+      213: -7592922389804630082
+    second: knuckles-idle_69
+  - first:
+      213: 2267499442403337530
+    second: knuckles-idle_70
+  - first:
+      213: 6544194305912595703
+    second: knuckles-idle_71
+  - first:
+      213: -7466197165662552967
+    second: knuckles-idle_72
+  - first:
+      213: 8198651556282431460
+    second: knuckles-idle_73
+  - first:
+      213: -1016780065542070764
+    second: knuckles-idle_74
+  - first:
+      213: 7295063150040376830
+    second: knuckles-idle_75
+  - first:
+      213: 4464788620161609037
+    second: knuckles-idle_76
+  - first:
+      213: -4900411539660738466
+    second: knuckles-idle_77
+  - first:
+      213: -8865446391229358857
+    second: knuckles-idle_78
+  - first:
+      213: -8394645020239170589
+    second: knuckles-idle_79
+  - first:
+      213: 3810817648444535406
+    second: knuckles-idle_80
+  - first:
+      213: 3919529961488545077
+    second: knuckles-idle_81
+  - first:
+      213: 5064821793940735520
+    second: knuckles-idle_82
+  - first:
+      213: 8707595967781826213
+    second: knuckles-idle_83
+  - first:
+      213: -7024837916113330039
+    second: knuckles-idle_84
+  - first:
+      213: 5712898454987104540
+    second: knuckles-idle_85
+  - first:
+      213: 686520293821371870
+    second: knuckles-idle_86
+  - first:
+      213: -5592101212663464668
+    second: knuckles-idle_87
+  - first:
+      213: 4652787337519399984
+    second: knuckles-idle_88
+  - first:
+      213: 617801178875638937
+    second: knuckles-idle_89
+  - first:
+      213: -267350638630398284
+    second: knuckles-idle_90
+  - first:
+      213: 5184968905437608838
+    second: knuckles-idle_91
+  - first:
+      213: 167584902020949109
+    second: knuckles-idle_92
+  - first:
+      213: -3505127379947379401
+    second: knuckles-idle_93
+  - first:
+      213: -8472053571801247952
+    second: knuckles-idle_94
+  - first:
+      213: -3572566940672630583
+    second: knuckles-idle_95
+  - first:
+      213: -7021689821855027195
+    second: knuckles-idle_96
+  - first:
+      213: 7280139620602723200
+    second: knuckles-idle_97
+  - first:
+      213: 8380729402923086256
+    second: knuckles-idle_98
+  - first:
+      213: 4402681340434107317
+    second: knuckles-idle_99
+  - first:
+      213: -3265805445315289205
+    second: knuckles-idle_100
+  - first:
+      213: -5710158752057602713
+    second: knuckles-idle_101
+  - first:
+      213: -8863334755167140536
+    second: knuckles-idle_102
+  - first:
+      213: 3770827347164404356
+    second: knuckles-idle_103
+  - first:
+      213: -3525410445132572698
+    second: knuckles-idle_104
+  - first:
+      213: -6966950534436435260
+    second: knuckles-idle_105
+  - first:
+      213: -7465592372432136540
+    second: knuckles-idle_106
+  - first:
+      213: 6106449960069200955
+    second: knuckles-idle_107
+  - first:
+      213: -1200331415982015812
+    second: knuckles-idle_108
+  - first:
+      213: -9148205997650372447
+    second: knuckles-idle_109
+  - first:
+      213: -6736306925417733828
+    second: knuckles-idle_110
+  - first:
+      213: 6937029673493286233
+    second: knuckles-idle_111
+  - first:
+      213: -9007490469412419345
+    second: knuckles-idle_112
+  - first:
+      213: 8531360949246011747
+    second: knuckles-idle_113
+  - first:
+      213: -8616431520845156169
+    second: knuckles-idle_114
+  - first:
+      213: 4887976422485494419
+    second: knuckles-idle_115
+  - first:
+      213: -2730233223474907952
+    second: knuckles-idle_116
+  - first:
+      213: -5654435844653247593
+    second: knuckles-idle_117
+  - first:
+      213: -8674283601432037717
+    second: knuckles-idle_118
+  - first:
+      213: 1981719066823833594
+    second: knuckles-idle_119
+  - first:
+      213: 2488499693657683546
+    second: knuckles-idle_120
+  - first:
+      213: 5601344259157813554
+    second: knuckles-idle_121
+  - first:
+      213: 158925294960614485
+    second: knuckles-idle_122
+  - first:
+      213: -7378945263480386288
+    second: knuckles-idle_123
+  - first:
+      213: -9104349062388351946
+    second: knuckles-idle_124
+  - first:
+      213: 5396816699484367178
+    second: knuckles-idle_125
+  - first:
+      213: -5587864168815236345
+    second: knuckles-idle_126
+  - first:
+      213: -4872596471653736838
+    second: knuckles-idle_127
+  - first:
+      213: -8657910695927208753
+    second: knuckles-idle_128
+  - first:
+      213: 8890595583893446244
+    second: knuckles-idle_129
+  - first:
+      213: 2296770464755657499
+    second: knuckles-idle_130
+  - first:
+      213: 3711621798892396228
+    second: knuckles-idle_131
+  - first:
+      213: 7922139539801679174
+    second: knuckles-idle_132
+  - first:
+      213: 7352945670918747747
+    second: knuckles-idle_133
+  - first:
+      213: 3724876663675086424
+    second: knuckles-idle_134
+  - first:
+      213: -245852156278888073
+    second: knuckles-idle_135
+  - first:
+      213: -3161652526873159663
+    second: knuckles-idle_136
+  - first:
+      213: 3708860018935060365
+    second: knuckles-idle_137
+  - first:
+      213: -8449122580219972398
+    second: knuckles-idle_138
+  - first:
+      213: 4145849191189636044
+    second: knuckles-idle_139
+  - first:
+      213: 7729632038996984579
+    second: knuckles-idle_140
+  - first:
+      213: 5129500225944318342
+    second: knuckles-idle_141
+  - first:
+      213: -3648409124232139757
+    second: knuckles-idle_142
+  - first:
+      213: 5719864943118460196
+    second: knuckles-idle_143
+  - first:
+      213: 5485212134196894144
+    second: knuckles-idle_144
+  - first:
+      213: -5830337526526296968
+    second: knuckles-idle_145
+  - first:
+      213: -7914674746110300578
+    second: knuckles-idle_146
+  - first:
+      213: -6887511911744764175
+    second: knuckles-idle_147
+  - first:
+      213: -2222665030813879849
+    second: knuckles-idle_148
+  - first:
+      213: -7783597718714884474
+    second: knuckles-idle_149
+  - first:
+      213: -6109294992497065885
+    second: knuckles-idle_150
+  - first:
+      213: -8629778208444918966
+    second: knuckles-idle_151
+  - first:
+      213: 5832209114883224841
+    second: knuckles-idle_152
+  - first:
+      213: 4660047569648526198
+    second: knuckles-idle_153
+  - first:
+      213: -3293852051063869899
+    second: knuckles-idle_154
+  - first:
+      213: 6830712758328918277
+    second: knuckles-idle_155
+  - first:
+      213: -2938458825262821608
+    second: knuckles-idle_156
+  - first:
+      213: 5709076860068701137
+    second: knuckles-idle_0
+  - first:
+      213: -1810455504774371604
+    second: knuckles-idle_1
+  - first:
+      213: -7361033938724270996
+    second: knuckles-idle_2
+  - first:
+      213: 8221145459415930526
+    second: knuckles-idle_3
+  - first:
+      213: -4605488548783581571
+    second: knuckles-idle_4
+  - first:
+      213: -3383622275579587943
+    second: knuckles-idle_5
+  - first:
+      213: 8862652300778788115
+    second: knuckles-idle_6
+  - first:
+      213: 8795305203499797568
+    second: knuckles-idle_7
+  - first:
+      213: 8182531850126702880
+    second: knuckles-idle_8
+  - first:
+      213: 2832367229723510802
+    second: knuckles-idle_9
+  - first:
+      213: -4341233069714972889
+    second: knuckles-idle_10
+  - first:
+      213: -5839285125445988414
+    second: knuckles-idle_11
+  - first:
+      213: 4989896183121788188
+    second: knuckles-idle_12
+  - first:
+      213: -129208023312526990
+    second: knuckles-idle_13
+  - first:
+      213: -664709717068503402
+    second: knuckles-idle_14
+  - first:
+      213: -760404199830094837
+    second: knuckles-idle_15
+  - first:
+      213: -824797302599524457
+    second: knuckles-idle_16
+  - first:
+      213: -2542153048283756780
+    second: knuckles-idle_17
+  - first:
+      213: -4185485318257888622
+    second: knuckles-idle_18
+  - first:
+      213: 1477192549210533788
+    second: knuckles-idle_19
+  - first:
+      213: -8936950951059605819
+    second: knuckles-idle_20
+  - first:
+      213: 8988510978100124014
+    second: knuckles-idle_21
+  - first:
+      213: -1182956609044052295
+    second: knuckles-idle_22
+  - first:
+      213: -870639432732762117
+    second: knuckles-idle_23
+  - first:
+      213: -340629924513216120
+    second: knuckles-idle_24
+  - first:
+      213: -1286011982012130218
+    second: knuckles-idle_25
+  - first:
+      213: -2160164966912729084
+    second: knuckles-idle_26
+  - first:
+      213: -4789031445235170199
+    second: knuckles-idle_27
+  - first:
+      213: 1751430707711962497
+    second: knuckles-idle_28
+  - first:
+      213: -5239746217127746549
+    second: knuckles-idle_29
+  - first:
+      213: 827900676475187018
+    second: knuckles-idle_30
+  - first:
+      213: -8196166064306737903
+    second: knuckles-idle_31
+  - first:
+      213: -6906552122504706146
+    second: knuckles-idle_32
+  - first:
+      213: -3400229143383277887
+    second: knuckles-idle_33
+  - first:
+      213: -3640053950635065764
+    second: knuckles-idle_34
+  - first:
+      213: -269523099069016937
+    second: knuckles-idle_35
+  - first:
+      213: 8766518469893727039
+    second: knuckles-idle_36
+  - first:
+      213: -3495417432556175724
+    second: knuckles-idle_37
+  - first:
+      213: 4593397182754528697
+    second: knuckles-idle_38
+  - first:
+      213: 2940708183088384556
+    second: knuckles-idle_39
+  - first:
+      213: -2505795669989921111
+    second: knuckles-idle_40
+  - first:
+      213: -7869682172749633307
+    second: knuckles-idle_41
+  - first:
+      213: -7739433713347356015
+    second: knuckles-idle_42
+  - first:
+      213: 2259038318417392668
+    second: knuckles-idle_43
+  - first:
+      213: -6189119110051976853
+    second: knuckles-idle_44
+  - first:
+      213: 8261522460657798318
+    second: knuckles-idle_45
+  - first:
+      213: -316508319170286563
+    second: knuckles-idle_46
+  - first:
+      213: 1895482999346272904
+    second: knuckles-idle_47
+  - first:
+      213: 1645743712769374433
+    second: knuckles-idle_48
+  - first:
+      213: 8711200809064265823
+    second: knuckles-idle_49
+  - first:
+      213: -7994101956859620847
+    second: knuckles-idle_50
+  - first:
+      213: -7879425754885751350
+    second: knuckles-idle_51
+  - first:
+      213: 4477481274412041324
+    second: knuckles-idle_52
+  - first:
+      213: -5329064612460333676
+    second: knuckles-idle_53
+  - first:
+      213: -4000712663547257805
+    second: knuckles-idle_54
+  - first:
+      213: 5510177755145255155
+    second: knuckles-idle_55
+  - first:
+      213: -2201521943866403718
+    second: knuckles-idle_56
+  - first:
+      213: -4842034073819891209
+    second: knuckles-idle_57
+  - first:
+      213: -966209811484210406
+    second: knuckles-idle_58
+  - first:
+      213: -5634532847115904452
+    second: knuckles-idle_59
+  - first:
+      213: -2430963018658735564
+    second: knuckles-idle_60
+  - first:
+      213: -2463352500421399610
+    second: knuckles-idle_61
+  - first:
+      213: -128664040620792359
+    second: knuckles-idle_62
+  - first:
+      213: -5790277940970230228
+    second: knuckles-idle_63
+  - first:
+      213: 6658019035606218617
+    second: knuckles-idle_64
+  - first:
+      213: 7747779217347292465
+    second: knuckles-idle_65
+  - first:
+      213: -2448870423456447180
+    second: knuckles-idle_66
+  - first:
+      213: 1434710699389019204
+    second: knuckles-idle_67
+  - first:
+      213: -2458963426482989926
+    second: knuckles-idle_68
+  - first:
+      213: -3348254950374317895
+    second: knuckles-idle_69
+  - first:
+      213: -4656247515624509288
+    second: knuckles-idle_70
+  - first:
+      213: 7378076811635325529
+    second: knuckles-idle_71
+  - first:
+      213: 996871424998088284
+    second: knuckles-idle_72
+  - first:
+      213: -3525920520545024586
+    second: knuckles-idle_73
+  - first:
+      213: 6505911286000890596
+    second: knuckles-idle_74
+  - first:
+      213: 4649048027889747058
+    second: knuckles-idle_75
+  - first:
+      213: 3762383153099033818
+    second: knuckles-idle_76
+  - first:
+      213: 4994916926856830111
+    second: knuckles-idle_77
+  - first:
+      213: -2482331790323618920
+    second: knuckles-idle_78
+  - first:
+      213: -8379949229192696880
+    second: knuckles-idle_79
+  - first:
+      213: -7007179254785055450
+    second: knuckles-idle_80
+  - first:
+      213: 8919920096314162770
+    second: knuckles-idle_81
+  - first:
+      213: 5411225811619753006
+    second: knuckles-idle_82
+  - first:
+      213: -2223680103011875414
+    second: knuckles-idle_83
+  - first:
+      213: 4166635470198462029
+    second: knuckles-idle_84
+  - first:
+      213: 2333409835349113988
+    second: knuckles-idle_85
+  - first:
+      213: -1306316385549555608
+    second: knuckles-idle_86
+  - first:
+      213: -6712371539357243630
+    second: knuckles-idle_87
+  - first:
+      213: 8520992905370386755
+    second: knuckles-idle_88
+  - first:
+      213: 4056000380652904793
+    second: knuckles-idle_89
+  - first:
+      213: -927561864715822175
+    second: knuckles-idle_90
+  - first:
+      213: -7196895770383043883
+    second: knuckles-idle_91
+  - first:
+      213: -5116587280958354347
+    second: knuckles-idle_92
+  - first:
+      213: 3705377372281777128
+    second: knuckles-idle_93
+  - first:
+      213: -1237334202956957871
+    second: knuckles-idle_94
+  - first:
+      213: 7137905713616722069
+    second: knuckles-idle_95
+  - first:
+      213: 3688314037046890640
+    second: knuckles-idle_96
+  - first:
+      213: 3985633387524569312
+    second: knuckles-idle_97
+  - first:
+      213: -3636114783349870739
+    second: knuckles-idle_98
+  - first:
+      213: -8032670259283260453
+    second: knuckles-idle_99
+  - first:
+      213: 2193215814355056344
+    second: knuckles-idle_100
+  - first:
+      213: -239599164464553888
+    second: knuckles-idle_101
+  - first:
+      213: 4185270660367428068
+    second: knuckles-idle_102
+  - first:
+      213: 798818810256210436
+    second: knuckles-idle_103
+  - first:
+      213: 5635044807132081626
+    second: knuckles-idle_104
+  - first:
+      213: 4472553907308907681
+    second: knuckles-idle_105
+  - first:
+      213: -5639522132346671767
+    second: knuckles-idle_106
+  - first:
+      213: -9061435009291544899
+    second: knuckles-idle_107
+  - first:
+      213: 5457641078035317196
+    second: knuckles-idle_108
+  - first:
+      213: -4035009117346448244
+    second: knuckles-idle_109
+  - first:
+      213: -3611875986710316582
+    second: knuckles-idle_110
+  - first:
+      213: 1239002718435940699
+    second: knuckles-idle_111
+  - first:
+      213: 4103388787800204928
+    second: knuckles-idle_112
+  - first:
+      213: -1829483609107367482
+    second: knuckles-idle_113
+  - first:
+      213: 2514552055015028461
+    second: knuckles-idle_114
+  - first:
+      213: -2695497291606148313
+    second: knuckles-idle_115
+  - first:
+      213: -7359462870875922849
+    second: knuckles-idle_116
+  - first:
+      213: -5244893506905132569
+    second: knuckles-idle_117
+  - first:
+      213: -4641607209071825018
+    second: knuckles-idle_118
+  - first:
+      213: 3890048432815930822
+    second: knuckles-idle_119
+  - first:
+      213: 6421511709354460401
+    second: knuckles-idle_120
+  - first:
+      213: 3223934257598309354
+    second: knuckles-idle_121
+  - first:
+      213: -8361531604238703435
+    second: knuckles-idle_122
+  - first:
+      213: 7692925483017762588
+    second: knuckles-idle_123
+  - first:
+      213: -2232929946321483945
+    second: knuckles-idle_124
+  - first:
+      213: -6417838296220627909
+    second: knuckles-idle_125
+  - first:
+      213: -5824965568660516140
+    second: knuckles-idle_126
+  - first:
+      213: -196341337293167865
+    second: knuckles-idle_127
+  - first:
+      213: 994605692441685025
+    second: knuckles-idle_128
+  - first:
+      213: -8363659398262148643
+    second: knuckles-idle_129
+  - first:
+      213: -103607695664209439
+    second: knuckles-idle_130
+  - first:
+      213: -4332597373972624818
+    second: knuckles-idle_131
+  - first:
+      213: -7141772541349171302
+    second: knuckles-idle_132
+  - first:
+      213: 5071026911478105477
+    second: knuckles-idle_133
+  - first:
+      213: 8961658959831793747
+    second: knuckles-idle_134
+  - first:
+      213: 8762838695077431165
+    second: knuckles-idle_135
+  - first:
+      213: -1495293828799217385
+    second: knuckles-idle_136
+  - first:
+      213: 4725164381421207903
+    second: knuckles-idle_137
+  - first:
+      213: 7466485837762953607
+    second: knuckles-idle_138
+  - first:
+      213: -3414928778031062955
+    second: knuckles-idle_139
+  - first:
+      213: 42647904818508873
+    second: knuckles-idle_140
+  - first:
+      213: 2754895982194441709
+    second: knuckles-idle_141
+  - first:
+      213: 7179472697564296228
+    second: knuckles-idle_142
+  - first:
+      213: -7660579506626253648
+    second: knuckles-idle_143
+  - first:
+      213: -6419661832879200772
+    second: knuckles-idle_144
+  - first:
+      213: -1445369225418219594
+    second: knuckles-idle_145
+  - first:
+      213: 12482015558708795
+    second: knuckles-idle_146
+  - first:
+      213: 8599321968592061228
+    second: knuckles-idle_147
+  - first:
+      213: -6590932321437142637
+    second: knuckles-idle_148
+  - first:
+      213: -4479329607033669022
+    second: knuckles-idle_149
+  - first:
+      213: 6621427195972461502
+    second: knuckles-idle_150
+  - first:
+      213: 5549935319304404533
+    second: knuckles-idle_151
+  - first:
+      213: 6344507662100246385
+    second: knuckles-idle_152
+  - first:
+      213: 5471567999100330409
+    second: knuckles-idle_153
+  - first:
+      213: 5782611340325958948
+    second: knuckles-idle_154
+  - first:
+      213: -292019397540466287
+    second: knuckles-idle_155
+  - first:
+      213: 762587087346192345
+    second: knuckles-idle_156
+  - first:
+      213: -6111405557140683340
+    second: knuckles-idle_157
+  - first:
+      213: -6553722355031135248
+    second: knuckles-idle_158
+  - first:
+      213: -1320416938903868024
+    second: knuckles-idle_159
+  - first:
+      213: 1724961810823682602
+    second: knuckles-idle_160
+  - first:
+      213: 882780241028169923
+    second: knuckles-idle_161
+  - first:
+      213: -6146117007364767053
+    second: knuckles-idle_162
+  - first:
+      213: -1863961001302824632
+    second: knuckles-idle_163
+  - first:
+      213: -2851379712630791582
+    second: knuckles-idle_164
+  - first:
+      213: 450386430299063954
+    second: knuckles-idle_165
+  - first:
+      213: -1984776449580846475
+    second: knuckles-idle_166
+  - first:
+      213: -2004641719769329631
+    second: knuckles-idle_167
+  - first:
+      213: -5591599088574779823
+    second: knuckles-idle_168
+  - first:
+      213: 7123819075750586696
+    second: knuckles-idle_169
+  - first:
+      213: -1623063241345775603
+    second: knuckles-idle_170
+  - first:
+      213: -1307392163773943903
+    second: knuckles-idle_171
+  - first:
+      213: -1792056101112895943
+    second: knuckles-idle_172
+  - first:
+      213: -8971923859323526961
+    second: knuckles-idle_173
+  - first:
+      213: -3865144344812701885
+    second: knuckles-idle_174
+  - first:
+      213: -7225955423302168920
+    second: knuckles-idle_175
+  - first:
+      213: 2482550138073337628
+    second: knuckles-idle_176
+  - first:
+      213: 6945863625722045429
+    second: knuckles-idle_177
+  - first:
+      213: 2143539396666134672
+    second: knuckles-idle_178
+  - first:
+      213: 8469071789897286333
+    second: knuckles-idle_179
+  - first:
+      213: -8214841965321562482
+    second: knuckles-idle_180
+  - first:
+      213: 4252493001768047802
+    second: knuckles-idle_181
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knuckles-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d32ccff727ba3f40800000000000000
+      internalID: 5709076860068701137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6e5448f48ffd6e0800000000000000
+      internalID: -1810455504774371604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cceb612aa58d990800000000000000
+      internalID: -7361033938724270996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e965d43ec30671270800000000000000
+      internalID: 8221145459415930526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7610a8d0940610c0800000000000000
+      internalID: -4605488548783581571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992daf1b775fa01d0800000000000000
+      internalID: -3383622275579587943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315d7bbaf477efa70800000000000000
+      internalID: 8862652300778788115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c00c9ab733f0a70800000000000000
+      internalID: 8795305203499797568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0293f126d513e8170800000000000000
+      internalID: 8182531850126702880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_9
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21880292df69e4720800000000000000
+      internalID: 2832367229723510802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fd5702687d0c3c0800000000000000
+      internalID: -4341233069714972889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfc193cd11b6fea0800000000000000
+      internalID: -5839285125445988414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_12
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d3d05142caf3540800000000000000
+      internalID: 4989896183121788188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_13
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2719354ccf5f43ef0800000000000000
+      internalID: -129208023312526990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_14
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696a16bb80a76c6f0800000000000000
+      internalID: -664709717068503402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_15
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c7967b8608275f0800000000000000
+      internalID: -760404199830094837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_16
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fdad6293bbd84f0800000000000000
+      internalID: -824797302599524457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_17
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417ce50854578bcd0800000000000000
+      internalID: -2542153048283756780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_18
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29230a8574b2ae5c0800000000000000
+      internalID: -4185485318257888622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_19
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f2c880cca008410800000000000000
+      internalID: 1477192549210533788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_20
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6b003c57299f380800000000000000
+      internalID: -8936950951059605819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_21
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e695b558c1b9dbc70800000000000000
+      internalID: 8988510978100124014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_22
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b68a3d4b3b459fe0800000000000000
+      internalID: -1182956609044052295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_23
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff148c7c0edae3f0800000000000000
+      internalID: -870639432732762117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_24
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889858d63e6d54bf0800000000000000
+      internalID: -340629924513216120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_25
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c554b7aea272ee0800000000000000
+      internalID: -1286011982012130218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_26
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4006cea586d8502e0800000000000000
+      internalID: -2160164966912729084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_27
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96405902641f98db0800000000000000
+      internalID: -4789031445235170199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_28
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18de1edf2f45e4810800000000000000
+      internalID: 1751430707711962497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_29
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0467eea39ea847b0800000000000000
+      internalID: -5239746217127746549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_30
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4feb92674b4d7b00800000000000000
+      internalID: 827900676475187018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_31
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da2e0c36e514e80800000000000000
+      internalID: -8196166064306737903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_32
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e970363ef6ff620a0800000000000000
+      internalID: -6906552122504706146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_33
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce75b9fb95ffc0d0800000000000000
+      internalID: -3400229143383277887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_34
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eb32db73eeb7dc0800000000000000
+      internalID: -3640053950635065764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_35
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7949a3d5b26724cf0800000000000000
+      internalID: -269523099069016937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_36
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33aae2f91ee8a970800000000000000
+      internalID: 8766518469893727039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_37
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ef7c65d58cd7fc0800000000000000
+      internalID: -3495417432556175724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_38
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd1d5e96660fbf30800000000000000
+      internalID: 4593397182754528697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_39
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a4111138e7fc820800000000000000
+      internalID: 2940708183088384556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_40
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aee98a4d10a93dd0800000000000000
+      internalID: -2505795669989921111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_41
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8a80e52c549c290800000000000000
+      internalID: -7869682172749633307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_42
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a9f310b02089490800000000000000
+      internalID: -7739433713347356015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_43
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14b347b167b95f10800000000000000
+      internalID: 2259038318417392668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_44
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6925c4f5f4db1aa0800000000000000
+      internalID: -6189119110051976853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_45
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac4b6318e2d6a270800000000000000
+      internalID: 8261522460657798318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_46
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c26635c598b9bf0800000000000000
+      internalID: -316508319170286563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_47
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a93d5cebb1e4a10800000000000000
+      internalID: 1895482999346272904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_48
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e873feef2bd6d610800000000000000
+      internalID: 1645743712769374433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_49
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58fe5f5bf664e870800000000000000
+      internalID: 8711200809064265823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_50
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1129023ff9e3f0190800000000000000
+      internalID: -7994101956859620847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_51
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd78fdd508a6a290800000000000000
+      internalID: -7879425754885751350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_52
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c640bc11f75332e30800000000000000
+      internalID: 4477481274412041324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_53
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495723538fb5b06b0800000000000000
+      internalID: -5329064612460333676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_54
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cdbd8770d9a78c0800000000000000
+      internalID: -4000712663547257805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_55
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f831b06975187c40800000000000000
+      internalID: 5510177755145255155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_56
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a749d9ac47f9271e0800000000000000
+      internalID: -2201521943866403718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_57
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9b0aff9a3adccb0800000000000000
+      internalID: -4842034073819891209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_58
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b8cffab455792f0800000000000000
+      internalID: -966209811484210406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_59
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ad2648a3e1ec1b0800000000000000
+      internalID: -5634532847115904452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_60
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a1cbaa30c734ed0800000000000000
+      internalID: -2430963018658735564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_61
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbefc7c3f960ddd0800000000000000
+      internalID: -2463352500421399610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_62
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d56e6b9cb4e63ef0800000000000000
+      internalID: -128664040620792359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_63
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e60b114ecc4afa0800000000000000
+      internalID: -5790277940970230228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_64
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977f8158909066c50800000000000000
+      internalID: 6658019035606218617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_65
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13da3201624a58b60800000000000000
+      internalID: 7747779217347292465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_66
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4350be4135dd30ed0800000000000000
+      internalID: -2448870423456447180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_67
+      rect:
+        serializedVersion: 2
+        x: 3819
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444e88897cd19e310800000000000000
+      internalID: 1434710699389019204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_68
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94ddc0bac100edd0800000000000000
+      internalID: -2458963426482989926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_69
+      rect:
+        serializedVersion: 2
+        x: 3933
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0ee79ccdb9881d0800000000000000
+      internalID: -3348254950374317895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_70
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890f7eced8fa16fb0800000000000000
+      internalID: -4656247515624509288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_71
+      rect:
+        serializedVersion: 2
+        x: 4047
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95af11bf4c1346660800000000000000
+      internalID: 7378076811635325529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_72
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e9fb5874995dd00800000000000000
+      internalID: 996871424998088284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_73
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b547aab7f9611fc0800000000000000
+      internalID: -3525920520545024586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_74
+      rect:
+        serializedVersion: 2
+        x: 4218
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2b94648d3a94a50800000000000000
+      internalID: 6505911286000890596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_75
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2744916bc8cb48040800000000000000
+      internalID: 4649048027889747058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_76
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcc1653b8ba63430800000000000000
+      internalID: 3762383153099033818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_77
+      rect:
+        serializedVersion: 2
+        x: 4389
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c13e31b72815540800000000000000
+      internalID: 4994916926856830111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_78
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89be91f736cfc8dd0800000000000000
+      internalID: -2482331790323618920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_79
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db292e239074bb80800000000000000
+      internalID: -8379949229192696880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_80
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625ec09e79f71ce90800000000000000
+      internalID: -7007179254785055450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_81
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7cad511ce9cb70800000000000000
+      internalID: 8919920096314162770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_82
+      rect:
+        serializedVersion: 2
+        x: 4674
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c250da439881b40800000000000000
+      internalID: 5411225811619753006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_83
+      rect:
+        serializedVersion: 2
+        x: 4731
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa58fd55ab6e321e0800000000000000
+      internalID: -2223680103011875414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_84
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46d8b562ecd2d930800000000000000
+      internalID: 4166635470198462029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_85
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cf26fd1efe16020800000000000000
+      internalID: 2333409835349113988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_86
+      rect:
+        serializedVersion: 2
+        x: 4902
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868eb032b280fdde0800000000000000
+      internalID: -1306316385549555608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_87
+      rect:
+        serializedVersion: 2
+        x: 4959
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2176b2c06add8d2a0800000000000000
+      internalID: -6712371539357243630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_88
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341c93ab6e5a04670800000000000000
+      internalID: 8520992905370386755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_89
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9516aa94bdec94830800000000000000
+      internalID: 4056000380652904793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_90
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab1a620663a023f0800000000000000
+      internalID: -927561864715822175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_91
+      rect:
+        serializedVersion: 2
+        x: 5187
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2bec87d6d7f1c90800000000000000
+      internalID: -7196895770383043883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_92
+      rect:
+        serializedVersion: 2
+        x: 5244
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c02301afa3ef8b0800000000000000
+      internalID: -5116587280958354347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_93
+      rect:
+        serializedVersion: 2
+        x: 5301
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb20a196152c6330800000000000000
+      internalID: 3705377372281777128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_94
+      rect:
+        serializedVersion: 2
+        x: 5358
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1573f4c191b14dee0800000000000000
+      internalID: -1237334202956957871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_95
+      rect:
+        serializedVersion: 2
+        x: 5415
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5981b54ad6fee0360800000000000000
+      internalID: 7137905713616722069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_96
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090544e33168f2330800000000000000
+      internalID: 3688314037046890640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_97
+      rect:
+        serializedVersion: 2
+        x: 5529
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8b65cf270df4730800000000000000
+      internalID: 3985633387524569312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_98
+      rect:
+        serializedVersion: 2
+        x: 5586
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f62e79edce98dc0800000000000000
+      internalID: -3636114783349870739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_99
+      rect:
+        serializedVersion: 2
+        x: 5643
+        y: 49
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb839545f8368090800000000000000
+      internalID: -8032670259283260453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6f66ab92edf6e10800000000000000
+      internalID: 2193215814355056344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_101
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0602c9154d5ccacf0800000000000000
+      internalID: -239599164464553888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_102
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9a018bd71151a30800000000000000
+      internalID: 4185270660367428068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_103
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ab831c979f51b00800000000000000
+      internalID: 798818810256210436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_104
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add64867563b33e40800000000000000
+      internalID: 5635044807132081626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_105
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1accee30514b11e30800000000000000
+      internalID: 4472553907308907681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_106
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96de58600846cb1b0800000000000000
+      internalID: -5639522132346671767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_107
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db693eb5ed05f3280800000000000000
+      internalID: -9061435009291544899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_108
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc100e705af6dbb40800000000000000
+      internalID: 5457641078035317196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_109
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c3a1f0694c008c0800000000000000
+      internalID: -4035009117346448244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_110
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad93e573de900edc0800000000000000
+      internalID: -3611875986710316582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_111
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b591e1c6862d13110800000000000000
+      internalID: 1239002718435940699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_112
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086e620ac5a22f830800000000000000
+      internalID: 4103388787800204928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_113
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c971ccb95e5c96e0800000000000000
+      internalID: -1829483609107367482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_114
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6366875cb75e220800000000000000
+      internalID: 2514552055015028461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_115
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bb9c0ae7ba79ad0800000000000000
+      internalID: -2695497291606148313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_116
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e93c3d28fedd990800000000000000
+      internalID: -7359462870875922849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_117
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1ba24e4256637b0800000000000000
+      internalID: -5244893506905132569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_118
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fa16ce5d2b59fb0800000000000000
+      internalID: -4641607209071825018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_119
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdfe05707a3cf530800000000000000
+      internalID: 3890048432815930822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_120
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4851580eacd1950800000000000000
+      internalID: 6421511709354460401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_121
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae32c5b4027bdbc20800000000000000
+      internalID: 3223934257598309354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_122
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b46627ae4fd5fb80800000000000000
+      internalID: -8361531604238703435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_123
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17f2dac7f2c2ca60800000000000000
+      internalID: 7692925483017762588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_124
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7570d2d5b0a0301e0800000000000000
+      internalID: -2232929946321483945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_125
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c0fdf92124fe6a0800000000000000
+      internalID: -6417838296220627909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_126
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2db136da0992fa0800000000000000
+      internalID: -5824965568660516140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_127
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7036aef0894764df0800000000000000
+      internalID: -196341337293167865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_128
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c619d8b9c8dcd00800000000000000
+      internalID: 994605692441685025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_129
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd13a3007105eeb80800000000000000
+      internalID: -8363659398262148643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_130
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e120f78959ef8ef0800000000000000
+      internalID: -103607695664209439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_131
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a4299b4a58fd3c0800000000000000
+      internalID: -4332597373972624818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_132
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f6e3e56b353ec90800000000000000
+      internalID: -7141772541349171302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_133
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5854919cb18ef5640800000000000000
+      internalID: 5071026911478105477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_134
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35088f2d7553e5c70800000000000000
+      internalID: 8961658959831793747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_135
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77432c9d5bdb9970800000000000000
+      internalID: 8762838695077431165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_136
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711c6936f26af3be0800000000000000
+      internalID: -1495293828799217385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_137
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5180fb48f7239140800000000000000
+      internalID: 4725164381421207903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_138
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78188507f494e9760800000000000000
+      internalID: 7466485837762953607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_139
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55023349e5cbb90d0800000000000000
+      internalID: -3414928778031062955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_140
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9443f112b04879000800000000000000
+      internalID: 42647904818508873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_141
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedb9dbbc4b5b3620800000000000000
+      internalID: 2754895982194441709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_142
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4247fe4416c92a360800000000000000
+      internalID: 7179472697564296228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_143
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bca7e5b68720b590800000000000000
+      internalID: -7660579506626253648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_144
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf52a196397c8e6a0800000000000000
+      internalID: -6419661832879200772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_145
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf5aade85401fbe0800000000000000
+      internalID: -1445369225418219594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_146
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e2577b3585c2000800000000000000
+      internalID: 12482015558708795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_147
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23842fe4cde65770800000000000000
+      internalID: 8599321968592061228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_148
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391391259fd4884a0800000000000000
+      internalID: -6590932321437142637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_149
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a3ed4747936d1c0800000000000000
+      internalID: -4479329607033669022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_150
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3ac02f3f804eb50800000000000000
+      internalID: 6621427195972461502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_151
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e7881a4c4550d40800000000000000
+      internalID: 5549935319304404533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_152
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17faa32aa183c0850800000000000000
+      internalID: 6344507662100246385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_153
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a125c60b1aeeeb40800000000000000
+      internalID: 5471567999100330409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_154
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425364e5066ff3050800000000000000
+      internalID: 5782611340325958948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_155
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191b316b7e982fbf0800000000000000
+      internalID: -292019397540466287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knuckles-idle_156
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfc1936ae0459a00800000000000000
+      internalID: 762587087346192345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 101364e10f63eae4a844659eb916d987
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

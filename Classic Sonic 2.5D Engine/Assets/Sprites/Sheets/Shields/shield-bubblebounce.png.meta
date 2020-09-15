@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: 8bae157c90ab94b48816a9e98e8dc8a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 528978527554723622
+    second: shield-bubblebounce_0
+  - first:
+      213: 2271994504047465633
+    second: shield-bubblebounce_1
+  - first:
+      213: -2846361033552001987
+    second: shield-bubblebounce_2
+  - first:
+      213: 4178942050104400505
+    second: shield-bubblebounce_3
+  - first:
+      213: -6197529844151331400
+    second: shield-bubblebounce_4
+  - first:
+      213: -5021057768786307937
+    second: shield-bubblebounce_5
+  - first:
+      213: -7906193893304747339
+    second: shield-bubblebounce_6
+  - first:
+      213: 1023823623969486081
+    second: shield-bubblebounce_7
+  - first:
+      213: -7074008621087550585
+    second: shield-bubblebounce_8
+  - first:
+      213: -1810733801479998948
+    second: shield-bubblebounce_9
+  - first:
+      213: 379013608765729783
+    second: shield-bubblebounce_10
+  - first:
+      213: -3329648817116778170
+    second: shield-bubblebounce_11
+  - first:
+      213: 6033754970920285442
+    second: shield-bubblebounce_12
+  - first:
+      213: -5279976396090883593
+    second: shield-bubblebounce_13
+  - first:
+      213: -9130474964376398239
+    second: shield-bubblebounce_14
+  - first:
+      213: 7087348008568102166
+    second: shield-bubblebounce_15
+  - first:
+      213: -6032258251118009654
+    second: shield-bubblebounce_16
+  - first:
+      213: 89899987219751288
+    second: shield-bubblebounce_17
+  - first:
+      213: -2288063885050296140
+    second: shield-bubblebounce_18
+  - first:
+      213: -6831607403243703507
+    second: shield-bubblebounce_19
+  - first:
+      213: 5081681837672618749
+    second: shield-bubblebounce_20
+  - first:
+      213: -144175729106610579
+    second: shield-bubblebounce_21
+  - first:
+      213: 1211066983771424930
+    second: shield-bubblebounce_22
+  - first:
+      213: 4945411496305170102
+    second: shield-bubblebounce_23
+  - first:
+      213: -7150274662804311287
+    second: shield-bubblebounce_24
+  - first:
+      213: -1231367891008089982
+    second: shield-bubblebounce_25
+  - first:
+      213: -6389209299546080394
+    second: shield-bubblebounce_26
+  - first:
+      213: -3314168927894009222
+    second: shield-bubblebounce_27
+  - first:
+      213: -6781676573695800113
+    second: shield-bubblebounce_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shield-bubblebounce_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f55bc0b2f475700800000000000000
+      internalID: 528978527554723622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a49361c6feb78f10800000000000000
+      internalID: 2271994504047465633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d348e9c78b1bf78d0800000000000000
+      internalID: -2846361033552001987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a5a6157a59ef930800000000000000
+      internalID: 4178942050104400505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b55a725173fdf9a0800000000000000
+      internalID: -6197529844151331400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94d6cedf8e915ab0800000000000000
+      internalID: -5021057768786307937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba3538fa8e874290800000000000000
+      internalID: -7906193893304747339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ba5b592a553e00800000000000000
+      internalID: 1023823623969486081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783960a83a214dd90800000000000000
+      internalID: -7074008621087550585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12fdf3833bfed6e0800000000000000
+      internalID: -1810733801479998948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_10
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb258b7ed6824500800000000000000
+      internalID: 379013608765729783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_11
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64174f4ca06bac1d0800000000000000
+      internalID: -3329648817116778170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20573778d243cb350800000000000000
+      internalID: 6033754970920285442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_13
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f14e883171c9b6b0800000000000000
+      internalID: -5279976396090883593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_14
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1665fbd25690a4180800000000000000
+      internalID: -9130474964376398239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_15
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d1642a6715b5260800000000000000
+      internalID: 7087348008568102166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac221b4b41d194ca0800000000000000
+      internalID: -6032258251118009654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_17
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871ab83ef836f3100800000000000000
+      internalID: 89899987219751288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_18
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b84d2ce40a2f30e0800000000000000
+      internalID: -2288063885050296140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_19
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23fabc13414131a0800000000000000
+      internalID: -6831607403243703507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_20
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfad70c15b2c58640800000000000000
+      internalID: 5081681837672618749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_21
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d661e5130f8cffdf0800000000000000
+      internalID: -144175729106610579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_22
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a846e651039ec010800000000000000
+      internalID: 1211066983771424930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_23
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b61761dd81a1a440800000000000000
+      internalID: 4945411496305170102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903b215f31f15cc90800000000000000
+      internalID: -7150274662804311287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_25
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28014ac5d6d49eee0800000000000000
+      internalID: -1231367891008089982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_26
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bfee85ef7f457a0800000000000000
+      internalID: -6389209299546080394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_27
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a8d375be4b102d0800000000000000
+      internalID: -3314168927894009222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-bubblebounce_28
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc064b4615a2e1a0800000000000000
+      internalID: -6781676573695800113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b6222455ad0090149a3f54f1855c83b8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

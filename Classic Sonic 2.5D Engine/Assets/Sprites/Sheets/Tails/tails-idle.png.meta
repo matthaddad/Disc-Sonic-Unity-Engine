@@ -1,0 +1,4448 @@
+fileFormatVersion: 2
+guid: 2e1e62ef9b4f80c448f08dd015287201
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3164139034228014979
+    second: tails-idle_0
+  - first:
+      213: 4435620704186548965
+    second: tails-idle_1
+  - first:
+      213: 2194132403196654755
+    second: tails-idle_2
+  - first:
+      213: -5467087546310263113
+    second: tails-idle_3
+  - first:
+      213: 2398637270384424103
+    second: tails-idle_4
+  - first:
+      213: -1306699468470798153
+    second: tails-idle_5
+  - first:
+      213: 6161833962520257316
+    second: tails-idle_6
+  - first:
+      213: -7967569896067042240
+    second: tails-idle_7
+  - first:
+      213: -6139857925001394359
+    second: tails-idle_8
+  - first:
+      213: 8166832624171334938
+    second: tails-idle_9
+  - first:
+      213: 5351508074668467128
+    second: tails-idle_10
+  - first:
+      213: -8937760332872510396
+    second: tails-idle_11
+  - first:
+      213: 3960316985977341522
+    second: tails-idle_12
+  - first:
+      213: -7899546385856626231
+    second: tails-idle_13
+  - first:
+      213: -6520667013878708042
+    second: tails-idle_14
+  - first:
+      213: 3685194840734616038
+    second: tails-idle_15
+  - first:
+      213: -7748243624080285303
+    second: tails-idle_16
+  - first:
+      213: 1728882124865198175
+    second: tails-idle_17
+  - first:
+      213: 4930061548558539174
+    second: tails-idle_18
+  - first:
+      213: 6914593342164603405
+    second: tails-idle_19
+  - first:
+      213: 1663299946875326152
+    second: tails-idle_20
+  - first:
+      213: -7679944452559909871
+    second: tails-idle_21
+  - first:
+      213: 2829838253691785882
+    second: tails-idle_22
+  - first:
+      213: -8264357672372793811
+    second: tails-idle_23
+  - first:
+      213: 1997430535053030119
+    second: tails-idle_24
+  - first:
+      213: 8693724466621896457
+    second: tails-idle_25
+  - first:
+      213: -2848027116123764444
+    second: tails-idle_26
+  - first:
+      213: 6644187366699625755
+    second: tails-idle_27
+  - first:
+      213: 490213722579457117
+    second: tails-idle_28
+  - first:
+      213: -4746507495056532659
+    second: tails-idle_29
+  - first:
+      213: 8571425290914313288
+    second: tails-idle_30
+  - first:
+      213: -7089421845723165429
+    second: tails-idle_31
+  - first:
+      213: -7069245047032732841
+    second: tails-idle_32
+  - first:
+      213: -6030069967634376587
+    second: tails-idle_33
+  - first:
+      213: 2316212752164864941
+    second: tails-idle_34
+  - first:
+      213: -5027423120171080541
+    second: tails-idle_35
+  - first:
+      213: -47524535151119552
+    second: tails-idle_36
+  - first:
+      213: 5701167916907672797
+    second: tails-idle_37
+  - first:
+      213: 4712621319806968994
+    second: tails-idle_38
+  - first:
+      213: -8464680612405810185
+    second: tails-idle_39
+  - first:
+      213: -794051702885348868
+    second: tails-idle_40
+  - first:
+      213: 4355680682161022113
+    second: tails-idle_41
+  - first:
+      213: 3111323325952320040
+    second: tails-idle_42
+  - first:
+      213: -8163225226315998016
+    second: tails-idle_43
+  - first:
+      213: -2813259280040124842
+    second: tails-idle_44
+  - first:
+      213: -7226426486914811893
+    second: tails-idle_45
+  - first:
+      213: -1239781367906135304
+    second: tails-idle_46
+  - first:
+      213: -2227635251031540376
+    second: tails-idle_47
+  - first:
+      213: -5939363669529610416
+    second: tails-idle_48
+  - first:
+      213: -144817736397084227
+    second: tails-idle_49
+  - first:
+      213: -5717902025882752611
+    second: tails-idle_50
+  - first:
+      213: 8481126365785714647
+    second: tails-idle_51
+  - first:
+      213: 3484829633951243311
+    second: tails-idle_52
+  - first:
+      213: 3315035854617695779
+    second: tails-idle_53
+  - first:
+      213: -3255120283642394556
+    second: tails-idle_54
+  - first:
+      213: 7740712804175417756
+    second: tails-idle_55
+  - first:
+      213: 1627576227853518138
+    second: tails-idle_56
+  - first:
+      213: -6054941052182947721
+    second: tails-idle_57
+  - first:
+      213: -3658406901332808830
+    second: tails-idle_58
+  - first:
+      213: 1720525438292342789
+    second: tails-idle_59
+  - first:
+      213: -1101821561153439199
+    second: tails-idle_60
+  - first:
+      213: 2845526567436210094
+    second: tails-idle_61
+  - first:
+      213: -3352033528699994743
+    second: tails-idle_62
+  - first:
+      213: 8477614044455312856
+    second: tails-idle_63
+  - first:
+      213: 8404145201680578757
+    second: tails-idle_64
+  - first:
+      213: 281250910589953428
+    second: tails-idle_65
+  - first:
+      213: -4473344139453466948
+    second: tails-idle_66
+  - first:
+      213: -301708554835270592
+    second: tails-idle_67
+  - first:
+      213: 2606001647124885098
+    second: tails-idle_68
+  - first:
+      213: -458225912256897566
+    second: tails-idle_69
+  - first:
+      213: 5973585759504492158
+    second: tails-idle_70
+  - first:
+      213: -1131058803329006372
+    second: tails-idle_71
+  - first:
+      213: -6464370702198215449
+    second: tails-idle_72
+  - first:
+      213: 7891470662279128188
+    second: tails-idle_73
+  - first:
+      213: 7922578045640930434
+    second: tails-idle_74
+  - first:
+      213: -834805903396961332
+    second: tails-idle_75
+  - first:
+      213: 311378560951144017
+    second: tails-idle_76
+  - first:
+      213: -6712359272069570020
+    second: tails-idle_77
+  - first:
+      213: -9169964851465661566
+    second: tails-idle_78
+  - first:
+      213: -5871844337236185058
+    second: tails-idle_79
+  - first:
+      213: -6055157157681650491
+    second: tails-idle_80
+  - first:
+      213: 8045079362609575433
+    second: tails-idle_81
+  - first:
+      213: -8692549828340140288
+    second: tails-idle_82
+  - first:
+      213: 2413215956914272296
+    second: tails-idle_83
+  - first:
+      213: 6348287120572927039
+    second: tails-idle_84
+  - first:
+      213: -9093758231043924122
+    second: tails-idle_85
+  - first:
+      213: 7385783763997306378
+    second: tails-idle_86
+  - first:
+      213: -3908940771696811775
+    second: tails-idle_87
+  - first:
+      213: 8281266390914800949
+    second: tails-idle_88
+  - first:
+      213: -1069799019579002790
+    second: tails-idle_89
+  - first:
+      213: 9175593911075038281
+    second: tails-idle_90
+  - first:
+      213: -3829133468379903158
+    second: tails-idle_91
+  - first:
+      213: -5910411094989932650
+    second: tails-idle_92
+  - first:
+      213: -1206221221035758015
+    second: tails-idle_93
+  - first:
+      213: -5790309542444357157
+    second: tails-idle_94
+  - first:
+      213: 7592588027854202546
+    second: tails-idle_95
+  - first:
+      213: -8628352049072409676
+    second: tails-idle_96
+  - first:
+      213: 7686389449843767753
+    second: tails-idle_97
+  - first:
+      213: -6482861842201942209
+    second: tails-idle_98
+  - first:
+      213: -1142554511293946087
+    second: tails-idle_99
+  - first:
+      213: -7382834942534854956
+    second: tails-idle_100
+  - first:
+      213: 981777181663490980
+    second: tails-idle_101
+  - first:
+      213: 763556758504418183
+    second: tails-idle_102
+  - first:
+      213: 3406694715024544184
+    second: tails-idle_103
+  - first:
+      213: 9128835260445715718
+    second: tails-idle_104
+  - first:
+      213: 5744779659866403895
+    second: tails-idle_105
+  - first:
+      213: 5991404041361118331
+    second: tails-idle_106
+  - first:
+      213: 7468334583345374353
+    second: tails-idle_107
+  - first:
+      213: -4578674713490654158
+    second: tails-idle_108
+  - first:
+      213: -4400234360039370418
+    second: tails-idle_109
+  - first:
+      213: -1193681347269322082
+    second: tails-idle_110
+  - first:
+      213: 5493846787392588144
+    second: tails-idle_111
+  - first:
+      213: -4024799068264719697
+    second: tails-idle_112
+  - first:
+      213: 9101374292849176362
+    second: tails-idle_113
+  - first:
+      213: -4639616429225986339
+    second: tails-idle_114
+  - first:
+      213: -2339032199825689617
+    second: tails-idle_115
+  - first:
+      213: -363310146255134859
+    second: tails-idle_116
+  - first:
+      213: -4775524468531728439
+    second: tails-idle_117
+  - first:
+      213: 3730139435355281000
+    second: tails-idle_118
+  - first:
+      213: 7715621313650356357
+    second: tails-idle_119
+  - first:
+      213: 1667076474410785630
+    second: tails-idle_120
+  - first:
+      213: -7822675027671881369
+    second: tails-idle_121
+  - first:
+      213: 7380675814865994076
+    second: tails-idle_122
+  - first:
+      213: -7617165458155595406
+    second: tails-idle_123
+  - first:
+      213: -8874779128513526583
+    second: tails-idle_124
+  - first:
+      213: -7527774355182312417
+    second: tails-idle_125
+  - first:
+      213: 7211902118222661156
+    second: tails-idle_126
+  - first:
+      213: -7141558117497907773
+    second: tails-idle_127
+  - first:
+      213: -4835466871615886681
+    second: tails-idle_128
+  - first:
+      213: 4694562288993303745
+    second: tails-idle_129
+  - first:
+      213: 3046488378841368249
+    second: tails-idle_130
+  - first:
+      213: -3166467861999707946
+    second: tails-idle_131
+  - first:
+      213: 1054551517684247771
+    second: tails-idle_132
+  - first:
+      213: -6998237659532636055
+    second: tails-idle_133
+  - first:
+      213: -6567964896228519513
+    second: tails-idle_134
+  - first:
+      213: 1525263930652979495
+    second: tails-idle_135
+  - first:
+      213: -8047269742988215501
+    second: tails-idle_136
+  - first:
+      213: 6007245970422990475
+    second: tails-idle_137
+  - first:
+      213: -7784497974939355490
+    second: tails-idle_138
+  - first:
+      213: -7373836630506734265
+    second: tails-idle_139
+  - first:
+      213: 1478250233109774698
+    second: tails-idle_140
+  - first:
+      213: -9032380916641568428
+    second: tails-idle_141
+  - first:
+      213: -8040809372687290007
+    second: tails-idle_142
+  - first:
+      213: 2641861257623210440
+    second: tails-idle_143
+  - first:
+      213: -67466939924481973
+    second: tails-idle_144
+  - first:
+      213: 4915127013664586424
+    second: tails-idle_145
+  - first:
+      213: -5323626125602903937
+    second: tails-idle_146
+  - first:
+      213: -5269219518092681027
+    second: tails-idle_147
+  - first:
+      213: -3712183520321835822
+    second: tails-idle_148
+  - first:
+      213: -6335967804571142922
+    second: tails-idle_149
+  - first:
+      213: -3760856575157049044
+    second: tails-idle_150
+  - first:
+      213: 1218079586358960394
+    second: tails-idle_151
+  - first:
+      213: 4585264739173315713
+    second: tails-idle_152
+  - first:
+      213: 4679970081216116426
+    second: tails-idle_153
+  - first:
+      213: -4328334426845947183
+    second: tails-idle_154
+  - first:
+      213: -4224530670228044471
+    second: tails-idle_155
+  - first:
+      213: 4681705070676208841
+    second: tails-idle_156
+  - first:
+      213: 7576909476373108066
+    second: tails-idle_157
+  - first:
+      213: -1772946946884770646
+    second: tails-idle_158
+  - first:
+      213: -344621498017986316
+    second: tails-idle_159
+  - first:
+      213: -3191534528719404026
+    second: tails-idle_0
+  - first:
+      213: -9024499969017386139
+    second: tails-idle_1
+  - first:
+      213: -3202858111784492226
+    second: tails-idle_2
+  - first:
+      213: -8508522713573642386
+    second: tails-idle_3
+  - first:
+      213: 501486781515921404
+    second: tails-idle_4
+  - first:
+      213: -843254648167993657
+    second: tails-idle_5
+  - first:
+      213: -6948674010776918626
+    second: tails-idle_6
+  - first:
+      213: -7183345855470337186
+    second: tails-idle_7
+  - first:
+      213: 4359436700722757733
+    second: tails-idle_8
+  - first:
+      213: 3064819429755274248
+    second: tails-idle_9
+  - first:
+      213: -8973702042285105474
+    second: tails-idle_10
+  - first:
+      213: 8479675240405565232
+    second: tails-idle_11
+  - first:
+      213: 7047675765616915480
+    second: tails-idle_12
+  - first:
+      213: 9058453904516503296
+    second: tails-idle_13
+  - first:
+      213: 5319614309045948481
+    second: tails-idle_14
+  - first:
+      213: -376699582891445406
+    second: tails-idle_15
+  - first:
+      213: -7752268543132055757
+    second: tails-idle_16
+  - first:
+      213: 4784725592680794951
+    second: tails-idle_17
+  - first:
+      213: -656828727856482515
+    second: tails-idle_18
+  - first:
+      213: -6931688188717554556
+    second: tails-idle_19
+  - first:
+      213: 2950955449192105314
+    second: tails-idle_20
+  - first:
+      213: -1047688462454705085
+    second: tails-idle_21
+  - first:
+      213: -2772385861097710738
+    second: tails-idle_22
+  - first:
+      213: 4412433172495991824
+    second: tails-idle_23
+  - first:
+      213: 2217033076395552441
+    second: tails-idle_24
+  - first:
+      213: -1054764677937176168
+    second: tails-idle_25
+  - first:
+      213: -226619287396327832
+    second: tails-idle_26
+  - first:
+      213: 6921380602216661238
+    second: tails-idle_27
+  - first:
+      213: -559086172553569590
+    second: tails-idle_28
+  - first:
+      213: 4355914701243826033
+    second: tails-idle_29
+  - first:
+      213: -9083717203121756549
+    second: tails-idle_30
+  - first:
+      213: 5293420839219660771
+    second: tails-idle_31
+  - first:
+      213: 5162480961320045312
+    second: tails-idle_32
+  - first:
+      213: -444316290032951554
+    second: tails-idle_33
+  - first:
+      213: 687552822868187941
+    second: tails-idle_34
+  - first:
+      213: 5460640736766446810
+    second: tails-idle_35
+  - first:
+      213: 365974507517045270
+    second: tails-idle_36
+  - first:
+      213: -6679144797825823852
+    second: tails-idle_37
+  - first:
+      213: -8676154303729238931
+    second: tails-idle_38
+  - first:
+      213: -6866216556114605691
+    second: tails-idle_39
+  - first:
+      213: 1462322787947761730
+    second: tails-idle_40
+  - first:
+      213: 8299751843152354522
+    second: tails-idle_41
+  - first:
+      213: -7287989669800534321
+    second: tails-idle_42
+  - first:
+      213: 8252766643958394254
+    second: tails-idle_43
+  - first:
+      213: 5364092527485116771
+    second: tails-idle_44
+  - first:
+      213: 2659435110468887750
+    second: tails-idle_45
+  - first:
+      213: -7232905416239976488
+    second: tails-idle_46
+  - first:
+      213: 1900560758016340191
+    second: tails-idle_47
+  - first:
+      213: -4287295948191811044
+    second: tails-idle_48
+  - first:
+      213: 5935803303631462278
+    second: tails-idle_49
+  - first:
+      213: 3746250884956602257
+    second: tails-idle_50
+  - first:
+      213: -5881195119826629005
+    second: tails-idle_51
+  - first:
+      213: -7742800825821750643
+    second: tails-idle_52
+  - first:
+      213: -1681632449372186715
+    second: tails-idle_53
+  - first:
+      213: -8300996351755399243
+    second: tails-idle_54
+  - first:
+      213: -7515076334800406383
+    second: tails-idle_55
+  - first:
+      213: 1085947119415043026
+    second: tails-idle_56
+  - first:
+      213: -5136006467854065618
+    second: tails-idle_57
+  - first:
+      213: -6988508080503102192
+    second: tails-idle_58
+  - first:
+      213: 2535821573142891367
+    second: tails-idle_59
+  - first:
+      213: 8825460357415255931
+    second: tails-idle_60
+  - first:
+      213: -210235820393876605
+    second: tails-idle_61
+  - first:
+      213: 2524210541126479428
+    second: tails-idle_62
+  - first:
+      213: -987839675644033152
+    second: tails-idle_63
+  - first:
+      213: 2270126748357908918
+    second: tails-idle_64
+  - first:
+      213: 6183362670135290205
+    second: tails-idle_65
+  - first:
+      213: -8558156468040372344
+    second: tails-idle_66
+  - first:
+      213: -2945232474726532454
+    second: tails-idle_67
+  - first:
+      213: -417418244700864863
+    second: tails-idle_68
+  - first:
+      213: 815776213958682199
+    second: tails-idle_69
+  - first:
+      213: -8848196563492120945
+    second: tails-idle_70
+  - first:
+      213: 5600654357968632046
+    second: tails-idle_71
+  - first:
+      213: 2789744908430889355
+    second: tails-idle_72
+  - first:
+      213: 422233647493079805
+    second: tails-idle_73
+  - first:
+      213: 1843935846482303664
+    second: tails-idle_74
+  - first:
+      213: 7137557741258977708
+    second: tails-idle_75
+  - first:
+      213: -364475349035268556
+    second: tails-idle_76
+  - first:
+      213: 2203231871908259824
+    second: tails-idle_77
+  - first:
+      213: 2395258546265362251
+    second: tails-idle_78
+  - first:
+      213: -6274015131246310968
+    second: tails-idle_79
+  - first:
+      213: -3188954334693245982
+    second: tails-idle_80
+  - first:
+      213: -1542711481475238462
+    second: tails-idle_81
+  - first:
+      213: 4788956922414499796
+    second: tails-idle_82
+  - first:
+      213: 6970439112646842011
+    second: tails-idle_83
+  - first:
+      213: 1282952041576291677
+    second: tails-idle_84
+  - first:
+      213: -7756710873672047571
+    second: tails-idle_85
+  - first:
+      213: 2305098231266588849
+    second: tails-idle_86
+  - first:
+      213: -2548200615115308692
+    second: tails-idle_87
+  - first:
+      213: 8535246951718700321
+    second: tails-idle_88
+  - first:
+      213: -6879472017561029415
+    second: tails-idle_89
+  - first:
+      213: 5897003788199929236
+    second: tails-idle_90
+  - first:
+      213: 5869125805265549579
+    second: tails-idle_91
+  - first:
+      213: -3196816109139084627
+    second: tails-idle_92
+  - first:
+      213: -5516955095203369270
+    second: tails-idle_93
+  - first:
+      213: -919824036219489460
+    second: tails-idle_94
+  - first:
+      213: 2629563608778735677
+    second: tails-idle_95
+  - first:
+      213: 6376945606618714692
+    second: tails-idle_96
+  - first:
+      213: 4162005082245008331
+    second: tails-idle_97
+  - first:
+      213: -4609350639628838870
+    second: tails-idle_98
+  - first:
+      213: -6089489693646003436
+    second: tails-idle_99
+  - first:
+      213: -601465417376288435
+    second: tails-idle_100
+  - first:
+      213: -1189379419594375493
+    second: tails-idle_101
+  - first:
+      213: -8009854729085258194
+    second: tails-idle_102
+  - first:
+      213: -1901284321333813450
+    second: tails-idle_103
+  - first:
+      213: 8263490584219518813
+    second: tails-idle_104
+  - first:
+      213: 7973120744573691772
+    second: tails-idle_105
+  - first:
+      213: -7969588464466415641
+    second: tails-idle_106
+  - first:
+      213: 6962969314570940170
+    second: tails-idle_107
+  - first:
+      213: 4805735435939723317
+    second: tails-idle_108
+  - first:
+      213: 2702197918907261025
+    second: tails-idle_109
+  - first:
+      213: 3956948099556791823
+    second: tails-idle_110
+  - first:
+      213: -1052980267325020733
+    second: tails-idle_111
+  - first:
+      213: 3371966173485002585
+    second: tails-idle_112
+  - first:
+      213: -2032135573611205459
+    second: tails-idle_113
+  - first:
+      213: -856497328620897658
+    second: tails-idle_114
+  - first:
+      213: -5166876875960081534
+    second: tails-idle_115
+  - first:
+      213: 6649051960573943978
+    second: tails-idle_116
+  - first:
+      213: 7580520966790464223
+    second: tails-idle_117
+  - first:
+      213: -3020818982282301677
+    second: tails-idle_118
+  - first:
+      213: -1987881695898387748
+    second: tails-idle_119
+  - first:
+      213: 7303205085475391117
+    second: tails-idle_120
+  - first:
+      213: -171388252107247161
+    second: tails-idle_121
+  - first:
+      213: 4957425544490067662
+    second: tails-idle_122
+  - first:
+      213: 8901922780356973485
+    second: tails-idle_123
+  - first:
+      213: 7547171842683753816
+    second: tails-idle_124
+  - first:
+      213: 4745035491041833785
+    second: tails-idle_125
+  - first:
+      213: -8539592506367141610
+    second: tails-idle_126
+  - first:
+      213: 2076014945989661709
+    second: tails-idle_127
+  - first:
+      213: 7466602589963649696
+    second: tails-idle_128
+  - first:
+      213: -7631917022909662869
+    second: tails-idle_129
+  - first:
+      213: -3324100876003853309
+    second: tails-idle_130
+  - first:
+      213: -1786029880591482357
+    second: tails-idle_131
+  - first:
+      213: -7821503722493910509
+    second: tails-idle_132
+  - first:
+      213: -6275678914178809005
+    second: tails-idle_133
+  - first:
+      213: 9060328108905502927
+    second: tails-idle_134
+  - first:
+      213: -2482430997361870420
+    second: tails-idle_135
+  - first:
+      213: -2757415077293430973
+    second: tails-idle_136
+  - first:
+      213: 9094464048712115289
+    second: tails-idle_137
+  - first:
+      213: -782494744004608092
+    second: tails-idle_138
+  - first:
+      213: 992175277446580337
+    second: tails-idle_139
+  - first:
+      213: 8101989967023347213
+    second: tails-idle_140
+  - first:
+      213: 3486264796097873287
+    second: tails-idle_141
+  - first:
+      213: 4892933889452469059
+    second: tails-idle_142
+  - first:
+      213: 743448111717127869
+    second: tails-idle_143
+  - first:
+      213: 5700292855891225770
+    second: tails-idle_144
+  - first:
+      213: -9054934031494757930
+    second: tails-idle_145
+  - first:
+      213: 8159181615239438764
+    second: tails-idle_146
+  - first:
+      213: -1154593962406866334
+    second: tails-idle_147
+  - first:
+      213: -5311420347198408332
+    second: tails-idle_148
+  - first:
+      213: 6848650927859122641
+    second: tails-idle_149
+  - first:
+      213: -7205426073369489812
+    second: tails-idle_150
+  - first:
+      213: 5091761126923229898
+    second: tails-idle_151
+  - first:
+      213: -3162045391017796460
+    second: tails-idle_152
+  - first:
+      213: -5262814728761990338
+    second: tails-idle_153
+  - first:
+      213: 7031570528632595098
+    second: tails-idle_154
+  - first:
+      213: -6843864651178716446
+    second: tails-idle_155
+  - first:
+      213: -5355514093474603049
+    second: tails-idle_156
+  - first:
+      213: -6886495906726931684
+    second: tails-idle_157
+  - first:
+      213: -4013463084127771013
+    second: tails-idle_158
+  - first:
+      213: 3770671279826595288
+    second: tails-idle_159
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tails-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604494f614465b3d0800000000000000
+      internalID: -3191534528719404026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56be13f871982c280800000000000000
+      internalID: -9024499969017386139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e336b1d44892d83d0800000000000000
+      internalID: -3202858111784492226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fa91e0ca7abe980800000000000000
+      internalID: -8508522713573642386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf77fcf1293a5f600800000000000000
+      internalID: 501486781515921404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceefb08d582c44f0800000000000000
+      internalID: -843254648167993657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9527a78dc9519f90800000000000000
+      internalID: -6948674010776918626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e538ae1e001af4c90800000000000000
+      internalID: -7183345855470337186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560816ff494df7c30800000000000000
+      internalID: 4359436700722757733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8044743880d688a20800000000000000
+      internalID: 3064819429755274248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe16698981077380800000000000000
+      internalID: -8973702042285105474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f7c0334bbdda570800000000000000
+      internalID: 8479675240405565232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814b9b5c4cf5ec160800000000000000
+      internalID: 7047675765616915480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007d4f815d716bd70800000000000000
+      internalID: 9058453904516503296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140d4c0970113d940800000000000000
+      internalID: 5319614309045948481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263b7b6a9b1b5caf0800000000000000
+      internalID: -376699582891445406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337cd2355d86a6490800000000000000
+      internalID: -7752268543132055757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b85737392c66240800000000000000
+      internalID: 4784725592680794951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_18
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27b7d580c972e6f0800000000000000
+      internalID: -656828727856482515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_19
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48428b96152bdcf90800000000000000
+      internalID: -6931688188717554556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_20
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2654911a856e3f820800000000000000
+      internalID: 2950955449192105314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_21
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344bc10f4ecd571f0800000000000000
+      internalID: -1047688462454705085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_22
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b94f08fb18689d0800000000000000
+      internalID: -2772385861097710738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_23
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01406c1a79c1c3d30800000000000000
+      internalID: 4412433172495991824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_24
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be29dd26db74ce10800000000000000
+      internalID: 2217033076395552441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_25
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891ece12d19bc51f0800000000000000
+      internalID: -1054764677937176168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_26
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e5d7375f2eadcf0800000000000000
+      internalID: -226619287396327832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_27
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f047669cfead0060800000000000000
+      internalID: 6921380602216661238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_28
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca9c16961abd38f0800000000000000
+      internalID: -559086172553569590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_29
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f3a879751537c30800000000000000
+      internalID: 4355914701243826033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_30
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76a2d3d45720f180800000000000000
+      internalID: -9083717203121756549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_31
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e786502532067940800000000000000
+      internalID: 5293420839219660771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_32
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bc2331511d4a740800000000000000
+      internalID: 5162480961320045312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_33
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe9aa430b875d9f0800000000000000
+      internalID: -444316290032951554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_34
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b106b46adaa8900800000000000000
+      internalID: 687552822868187941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_35
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adccdf081d718cb40800000000000000
+      internalID: 5460640736766446810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_36
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ae66520e3341500800000000000000
+      internalID: 365974507517045270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_37
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b813aa139ee43a0800000000000000
+      internalID: -6679144797825823852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_38
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cfdb501ab189780800000000000000
+      internalID: -8676154303729238931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_39
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58902e5cb6c46b0a0800000000000000
+      internalID: -6866216556114605691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_40
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240d592f3d63b4410800000000000000
+      internalID: 1462322787947761730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_41
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc5dfec354ae2370800000000000000
+      internalID: 8299751843152354522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_42
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce92dc320cdbda90800000000000000
+      internalID: -7287989669800534321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_43
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d2553a987b78270800000000000000
+      internalID: 8252766643958394254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_44
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361e31bcbb5117a40800000000000000
+      internalID: 5364092527485116771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_45
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c423b6842638e420800000000000000
+      internalID: 2659435110468887750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_46
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df640378de8f9b90800000000000000
+      internalID: -7232905416239976488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_47
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd07c9790f5206a10800000000000000
+      internalID: 1900560758016340191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_48
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a3e09dc077084c0800000000000000
+      internalID: -4287295948191811044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_49
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f1b89c7a5306250800000000000000
+      internalID: 5935803303631462278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_50
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fb455d45b5df330800000000000000
+      internalID: 3746250884956602257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_51
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e09fbc23cc16ea0800000000000000
+      internalID: -5881195119826629005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_52
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a1b4a0cab0c8490800000000000000
+      internalID: -7742800825821750643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_53
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7966c6234a9a8e0800000000000000
+      internalID: -1681632449372186715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_54
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf4ec37ccfeccc80800000000000000
+      internalID: -8300996351755399243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_55
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198f64cd3e515b790800000000000000
+      internalID: -7515076334800406383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_56
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3a799c62f021f00800000000000000
+      internalID: 1085947119415043026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_57
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e202377445d39b8b0800000000000000
+      internalID: -5136006467854065618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_58
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0156aaf6de4d30f90800000000000000
+      internalID: -6988508080503102192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_59
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b44f0194c013320800000000000000
+      internalID: 2535821573142891367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_60
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f370f8f655a7a70800000000000000
+      internalID: 8825460357415255931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_61
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3833c5e92a7151df0800000000000000
+      internalID: -210235820393876605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_62
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ee3220d1cc70320800000000000000
+      internalID: 2524210541126479428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_63
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087433e7c0d7a42f0800000000000000
+      internalID: -987839675644033152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_64
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b95cfeff3c118f10800000000000000
+      internalID: 2270126748357908918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_65
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5923de6697bfc550800000000000000
+      internalID: 6183362670135290205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_66
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fed3e09025b3980800000000000000
+      internalID: -8558156468040372344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_67
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9afaf23bae6027d0800000000000000
+      internalID: -2945232474726532454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_68
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae76d96158053af0800000000000000
+      internalID: -417418244700864863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_69
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7566839f428325b00800000000000000
+      internalID: 815776213958682199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_70
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f865832fa14e43580800000000000000
+      internalID: -8848196563492120945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_71
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8b67c077589bd40800000000000000
+      internalID: 5600654357968632046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_72
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b815af8a63a27b620800000000000000
+      internalID: 2789744908430889355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_73
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2ea0be3431cd500800000000000000
+      internalID: 422233647493079805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_74
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0badf2ef1e9f69910800000000000000
+      internalID: 1843935846482303664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_75
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1b49303f2bd0360800000000000000
+      internalID: 7137557741258977708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_76
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436cd53e99f11faf0800000000000000
+      internalID: -364475349035268556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_77
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f729ead6b3739e10800000000000000
+      internalID: 2203231871908259824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_78
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f8d5b05faad3120800000000000000
+      internalID: 2395258546265362251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_79
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c943a2ba783ee8a0800000000000000
+      internalID: -6274015131246310968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_80
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebbaabadee8eb3d0800000000000000
+      internalID: -3188954334693245982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_81
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c570cbc410379ae0800000000000000
+      internalID: -1542711481475238462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_82
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d70a2da2fac57240800000000000000
+      internalID: 4788956922414499796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_83
+      rect:
+        serializedVersion: 2
+        x: 4067
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96ddc52179fbb060800000000000000
+      internalID: 6970439112646842011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_84
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d540e9516fdc110800000000000000
+      internalID: 1282952041576291677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_85
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d242e55ae80aa5490800000000000000
+      internalID: -7756710873672047571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_86
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8b60fd0aa5dff10800000000000000
+      internalID: 2305098231266588849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_87
+      rect:
+        serializedVersion: 2
+        x: 4263
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61ce9f9a09f2acd0800000000000000
+      internalID: -2548200615115308692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_88
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125cd6381e9437670800000000000000
+      internalID: 8535246951718700321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_89
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4f80726a43780a0800000000000000
+      internalID: -6879472017561029415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_90
+      rect:
+        serializedVersion: 2
+        x: 4410
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4952ac2a3bd56d150800000000000000
+      internalID: 5897003788199929236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_91
+      rect:
+        serializedVersion: 2
+        x: 4459
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b097eece2d2537150800000000000000
+      internalID: 5869125805265549579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_92
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daab48aafa0a2a3d0800000000000000
+      internalID: -3196816109139084627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_93
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace2f9c2296df63b0800000000000000
+      internalID: -5516955095203369270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_94
+      rect:
+        serializedVersion: 2
+        x: 4606
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43754999e02c33f0800000000000000
+      internalID: -919824036219489460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_95
+      rect:
+        serializedVersion: 2
+        x: 4655
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d300d8f8b261e7420800000000000000
+      internalID: 2629563608778735677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_96
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4421f722e367f7850800000000000000
+      internalID: 6376945606618714692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_97
+      rect:
+        serializedVersion: 2
+        x: 4753
+        y: 49
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb8590329962c930800000000000000
+      internalID: 4162005082245008331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2814bfb30c4800c0800000000000000
+      internalID: -4609350639628838870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_99
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413e3da1369cd7ba0800000000000000
+      internalID: -6089489693646003436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_100
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41ba9cb36a27a7f0800000000000000
+      internalID: -601465417376288435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_101
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbebaef28b97e7fe0800000000000000
+      internalID: -1189379419594375493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_102
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26f36adf8747d090800000000000000
+      internalID: -8009854729085258194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_103
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fd0e1bbf74d95e0800000000000000
+      internalID: -1901284321333813450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_104
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57803d87e0dda270800000000000000
+      internalID: 8263490584219518813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_105
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77ec93e21736ae60800000000000000
+      internalID: 7973120744573691772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_106
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efad692485566190800000000000000
+      internalID: -7969588464466415641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_107
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f22f043bf61a060800000000000000
+      internalID: 6962969314570940170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_108
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b1b7cae661b240800000000000000
+      internalID: 4805735435939723317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_109
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160644db0b2208520800000000000000
+      internalID: 2702197918907261025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_110
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f065dbce457e9e630800000000000000
+      internalID: 3956948099556791823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_111
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5a89a96001361f0800000000000000
+      internalID: -1052980267325020733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_112
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fe43d8e51abce20800000000000000
+      internalID: 3371966173485002585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_113
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac287766776cc3e0800000000000000
+      internalID: -2032135573611205459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_114
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68afa70b73c1d14f0800000000000000
+      internalID: -856497328620897658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_115
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283283a4bd09b48b0800000000000000
+      internalID: -5166876875960081534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_116
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0ef1ba78d264c50800000000000000
+      internalID: 6649051960573943978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_117
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd242fde7ab633960800000000000000
+      internalID: 7580520966790464223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_118
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f6e4ef325e316d0800000000000000
+      internalID: -3020818982282301677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_119
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdab97c3120a964e0800000000000000
+      internalID: -1987881695898387748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_120
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d864699c4523a5560800000000000000
+      internalID: 7303205085475391117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_121
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1f872fa4b1f9df0800000000000000
+      internalID: -171388252107247161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_122
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec627c364405cc440800000000000000
+      internalID: 4957425544490067662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_123
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da39225ba9bf98b70800000000000000
+      internalID: 8901922780356973485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_124
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855def5edc0fcb860800000000000000
+      internalID: 7547171842683753816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_125
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9337b2a83a0c9d140800000000000000
+      internalID: 4745035491041833785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_126
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61916633cd54d7980800000000000000
+      internalID: -8539592506367141610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_127
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d049d1c189c7fcc10800000000000000
+      internalID: 2076014945989661709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_128
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a28bcdee73be9760800000000000000
+      internalID: 7466602589963649696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_129
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69763e37ebf51690800000000000000
+      internalID: -7631917022909662869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_130
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cb9387ddb6ed1d0800000000000000
+      internalID: -3324100876003853309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_131
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b028c11594fb637e0800000000000000
+      internalID: -1786029880591482357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_132
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312ea53fdcf647390800000000000000
+      internalID: -7821503722493910509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_133
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35386fb074f48e8a0800000000000000
+      internalID: -6275678914178809005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_134
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc89ccf4960ccbd70800000000000000
+      internalID: 9060328108905502927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_135
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9b3de0922ac8dd0800000000000000
+      internalID: -2482430997361870420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_136
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3476e9bb891bbb9d0800000000000000
+      internalID: -2757415077293430973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_137
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954eb062ed6063e70800000000000000
+      internalID: 9094464048712115289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_138
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afbef81d250425f0800000000000000
+      internalID: -782494744004608092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_139
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178c027782ae4cd00800000000000000
+      internalID: 992175277446580337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_140
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d069436e2fc007070800000000000000
+      internalID: 8101989967023347213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_141
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7850d5c6c53b16030800000000000000
+      internalID: 3486264796097873287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_142
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34be846d27137e340800000000000000
+      internalID: 4892933889452469059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_143
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db695df5e12415a00800000000000000
+      internalID: 743448111717127869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_144
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aace717a6228b1f40800000000000000
+      internalID: 5700292855891225770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_145
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1c8243979665280800000000000000
+      internalID: -9054934031494757930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_146
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1ae3a237c3b3170800000000000000
+      internalID: 8159181615239438764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_147
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2629de298ee0affe0800000000000000
+      internalID: -1154593962406866334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_148
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479f478d55b0a46b0800000000000000
+      internalID: -5311420347198408332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_149
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d141b1bbbb4b0f50800000000000000
+      internalID: 6848650927859122641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_150
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e4979892f210c90800000000000000
+      internalID: -7205426073369489812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_151
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acad66384c199a640800000000000000
+      internalID: 5091761126923229898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_152
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c19b858782e14d0800000000000000
+      internalID: -3162045391017796460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_153
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33a27543e9b6f6b0800000000000000
+      internalID: -5262814728761990338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_154
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9260441428259160800000000000000
+      internalID: 7031570528632595098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_155
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2d3af2c55b501a0800000000000000
+      internalID: -6843864651178716446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_156
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df19d48e446da5b0800000000000000
+      internalID: -5355514093474603049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_157
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c131c5485704e60a0800000000000000
+      internalID: -6886495906726931684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_158
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76ab67d6905d48c0800000000000000
+      internalID: -4013463084127771013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails-idle_159
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dde4d61d8d145430800000000000000
+      internalID: 3770671279826595288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c7c9498860d94de41b11181171f5ddc1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
