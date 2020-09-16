@@ -234,7 +234,7 @@ public class PlayerController : MonoBehaviour {
                        !(Physics.Raycast(transform.position + ConvertVector2ToVector3(Vector2.zero),
                                          -planeUpVector,
                                          maxDistance: bodyHeightRadius + 0.16f,
-                                         layerMask: 1 << 8))) {
+                                         layerMask: 1 << 8 | 1 << 9))) {
                         idleAnimationTimer = 0;
                         if(isFacingRight) {
                             if(SensorBCollider == null && PlayerSpriteManager.GetAnimationName() != "frontbalance") {
